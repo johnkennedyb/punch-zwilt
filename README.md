@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Demo Link
 
-Access the live site at [Project-Link](https://zwilt-john.netlify.app)
+Access the live site at [Project-Link](https://zwilt-john.vercel.app)
 
 ## Technologies Used
 
